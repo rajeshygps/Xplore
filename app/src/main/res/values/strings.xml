@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Xplore</string>
+    <string name="label_error">Something went wrong, please try again</string>
+    <string name="no_rating">No Rating</string>
+    <string name="description">Description</string>
+    <string name="long_description">Long Description</string>
+    <string name="short_description">Short Description</string>
+    <string name="rating">Rating:</string>
+    <string name="review_count">&#160;&#160;&#160;&#160;Review Count:</string>
+    <string name="price">Price:</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_result">Result</string>
+    <string name="menu_map">Map</string>
+    <string name="looking_for">Looking for :</string>
+    <string name="zipcode">Zipcode:</string>
+    <string name="or">OR</string>
+    <string name="nearby">Near by:</string>
+</resources>
